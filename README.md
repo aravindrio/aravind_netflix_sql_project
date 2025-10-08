@@ -1,7 +1,8 @@
 # SQL Portfolio Project: Analysis of Netflix Movies and TV Shows Dataset by Aravind
 
 
-![](https://)
+![Netflix Logo](https://<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25309c1d-e803-4ae5-ba09-0bae0e9ae17f" />
+)
 
 ## Overview
 As someone with a background in Marketing, Strategy, and Technology, I built this SQL project to bridge analytical thinking with real-world business decision-making. This project focuses on an in-depth analysis of Netflix’s Movies and TV Shows dataset using SQL.
