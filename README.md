@@ -1,7 +1,7 @@
 # SQL Portfolio Project: Analysis of Netflix Movies and TV Shows Dataset by Aravind
 
 
-![Netflix Logo](//<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25309c1d-e803-4ae5-ba09-0bae0e9ae17f" />
+(//<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25309c1d-e803-4ae5-ba09-0bae0e9ae17f" />
 )
 
 ## Overview
